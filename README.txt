@@ -14,3 +14,4 @@ Algorithms/Code:
 	Search and Sort
 	Recursion
 	
+Author: Bill Ma, Song Zheng
